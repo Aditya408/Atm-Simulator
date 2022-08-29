@@ -7,6 +7,6 @@ Role : 1) Developed the source code for simulator.
 ## Team members
 
 1. Aditya Kadam
-2.Durgesh Nikam @projectisgithub
+2.Durgesh Nikam
 3.Ramkrishna Karale
 4.Shubham Pansare
